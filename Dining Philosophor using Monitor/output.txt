@@ -1,0 +1,40 @@
+
+The philosopher 1 is hungry now
+
+Hey philosopher 1 got the sticks and eating now!!
+
+The philosopher 4 is hungry now
+
+Hey philosopher 4 got the sticks and eating now!!
+
+The philosopher 5 is hungry now
+
+Sorry philosopher 5, your neighbour is eating , you will sleep until your neighbour wakes you up
+
+The philosopher 3 is hungry now
+
+Sorry philosopher 3, your neighbour is eating , you will sleep until your neighbour wakes you up
+
+The philosopher 2 is hungry now
+
+Sorry philosopher 2, your neighbour is eating , you will sleep until your neighbour wakes you up
+
+ Philosopher 4 done eating
+
+Sorry philosopher 2, your neighbour is eating , you will sleep until your neighbour wakes you up
+
+Hey philosopher 3 got the sticks and eating now!!
+
+Sorry philosopher 5, your neighbour is eating , you will sleep until your neighbour wakes you up
+
+ Philosopher 1 done eating
+
+Hey philosopher 5 got the sticks and eating now!!
+
+ Philosopher 3 done eating
+
+Hey philosopher 2 got the sticks and eating now!!
+
+ Philosopher 5 done eating
+
+ Philosopher 2 done eating
